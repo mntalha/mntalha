@@ -1,8 +1,8 @@
 
 <h2> Hello there ,I’m  Muhammed Nur Talha Kilic from Turkey <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30px"></h2>
 
-[![GitHub](https://img.shields.io/badge/MY%20GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/mntalha)
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/mntalhakilic )
+[![GitHub](https://img.shields.io/badge/MY%20PROFILE-Github-blue?style=for-the-badge&logo=github)](https://github.com/mntalha)
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mntalhakilic )
 [![Contact](https://img.shields.io/badge/GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mntalha.kilic@gmail.com)
 
 <p align="left">
