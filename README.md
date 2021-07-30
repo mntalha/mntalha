@@ -6,11 +6,11 @@
 [![Contact](https://img.shields.io/badge/GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mntalha.kilic@gmail.com)
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" width="100" height="60"/>
-   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="100" height="60"/>
-    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="100" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="100" height="60"/>
-   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="100" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" width="120" height="60"/>
+   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="120" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="120" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="120" height="60"/>
+   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="120" height="60"/>
 </p>
 
 
