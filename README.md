@@ -1,17 +1,16 @@
 
-<h2> Hello there ,I’m  @mntalha (Muhammed Nur Talha Kilic) from Turkey <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30px"></h2>
+<h2> Hello there ,I’m  Muhammed Nur Talha Kilic from Turkey <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30px"></h2>
 
 [![GitHub](https://img.shields.io/badge/@mntalha-blue?style=for-the-badge&logo=github)](https://github.com/mntalha)
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/mntalhakilic )
 [![Contact](https://img.shields.io/badge/GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mntalha.kilic@gmail.com)
 
 <p align="left">
-   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" alt="keras" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/>
-   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="60" height="60"/>
-   <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="pandas" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" width="60" height="60"/>
+   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="60" height="60"/>
+   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="60" height="60"/>
 </p>
 
 
