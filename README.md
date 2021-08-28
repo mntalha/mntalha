@@ -17,7 +17,7 @@
 - 👋 Electronics Engineering Master at [Istanbul Technical University(ITU)](https://www.itu.edu.tr)
 - 👀 I’m interested in deep learning related projects by using **Pytorch**, **Keras** and **TensorFlow** libraries
 - 🌱 I’m currently learning neural network optimizations
-- 💭 Ask me about **AI, python , C , C++ ,algorithm and stuff like that**
+- 💭 Ask me about **AI, python , C , C++ and related algorithms**
 - 📫 How to reach me  : https://www.linkedin.com/in/mntalhakilic or mntalha.kilic@gmail.com
 - 💁‍♂️ My Blog  : [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://medium.com/@mntalha.kilic)
 
