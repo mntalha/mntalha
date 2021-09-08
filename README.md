@@ -1,5 +1,5 @@
 
-<h2> Hello there ,I’m  Muhammed Nur Talha Kilic from Turkey <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="30px"></h2>
+<h2> Hello there ,I’m Talha from Turkey <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="30px"></h2>
 
 [![GitHub](https://img.shields.io/badge/MY%20PROFILE-Github-blue?style=for-the-badge&logo=github)](https://github.com/mntalha)
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mntalhakilic )
