@@ -14,7 +14,7 @@
 </p>
 
 
-- 👋 Electronics Engineering Master at [Istanbul Technical University(ITU)](https://www.itu.edu.tr)
+- 👋 Computer Science PhD at [Northwestern University](https://www.northwestern.edu/)
 - 👀 I’m interested in deep learning related projects by using **Pytorch**, **Keras** and **TensorFlow** libraries
 - 🌱 I’m currently learning neural network optimizations
 - 💭 Ask me about **AI, python , C , C++ and related algorithms**
