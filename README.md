@@ -1,6 +1,6 @@
 <h2> Hey, I'm Talha <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="30px"></h2>
 
-**Software Engineer @ Microsoft** | Previously CS PhD @ Northwestern University
+**Software Engineer @ Microsoft** | MS & PhD Studies in CS @ Northwestern University
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mntalha)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mntalhakilic)
@@ -11,7 +11,7 @@
 
 ### About Me
 
-Software engineer at Microsoft with a background in deep learning research. I did my PhD in Computer Science at Northwestern University, where I worked on computer vision, materials science AI, and generative models. Now I build software at scale and dive deep into foundation models, VLMs, and AI agents on the side.
+Software engineer at Microsoft. I did my master's and pursued PhD studies in Computer Science at Northwestern University, where I worked on computer vision, materials science AI, and generative models. Now I build software at scale and dive deep into foundation models, VLMs, and AI agents on the side.
 
 I write about research papers and AI on [Substack](https://talhakilic.substack.com) — deep dives into the papers behind modern AI systems.
 
@@ -21,12 +21,8 @@ I write about research papers and AI on [Substack](https://talhakilic.substack.c
 
 | Project | Description |
 |---------|-------------|
-| [**Research**](https://github.com/mntalha/Research) | Deep dives into foundational AI papers — Transformers, LLaMA, VLMs, reasoning, RL alignment. Includes detailed Substack articles with original diagrams. |
-| [**stutAI**](https://github.com/mntalha/stutAI) | AI assistant that helps people who stutter communicate — clones your voice and speaks for you using open-source models. |
 | [**LLM_Atom_Gen**](https://github.com/mntalha/LLM_Atom_Gen) | Framework for generating nonexistent atoms using Large Language Models. |
 | [**SemiconCLIP**](https://github.com/mntalha/SemiconCLIP) | CLIP-based atom matching in semiconductor microscopy images. |
-| [**Atom-Segmentation**](https://github.com/mntalha/Atom-Segmentation) | Methods for detecting and counting atoms in STEM-simulated images of 2D materials. |
-| [**MaterialVision**](https://github.com/mntalha/MaterialVision) | Prompt-to-image matching for materials science. |
 | [**CrossPropertyTL**](https://github.com/mntalha/CrossPropertyTL) | Cross-property deep transfer learning. |
 | [**Classifier-GAN**](https://github.com/mntalha/Classifier-GAN) | GAN experiments to improve discriminator accuracy. |
 | [**EBSD_FFT**](https://github.com/mntalha/EBSD_FFT) | FFT-preprocessed neural networks for EBSD data. |
