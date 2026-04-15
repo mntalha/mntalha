@@ -1,6 +1,6 @@
 # Hey, I'm Talha 👋
 
-**Software Engineer @ Microsoft** · MS & PhD Studies in CS @ Northwestern University
+**Software Engineer @ Microsoft** · MS in CS @ Northwestern University
 
 I build software at scale and go deep on foundation models, VLMs, and AI agents. Previously worked on computer vision, materials science AI, and generative models in grad school.
 
