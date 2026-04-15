@@ -1,26 +1,59 @@
+<h2> Hey, I'm Talha <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="30px"></h2>
 
-<h2> Hello there ,I’m Talha <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="30px"></h2>
+**Software Engineer @ Microsoft** | Previously CS PhD @ Northwestern University
 
-[![GitHub](https://img.shields.io/badge/MY%20PROFILE-Github-blue?style=for-the-badge&logo=github)](https://github.com/mntalha)
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mntalhakilic )
-[![Contact](https://img.shields.io/badge/MY%20MAIL-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mntalha.kilic@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mntalha)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mntalhakilic)
+[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://talhakilic.substack.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mntalha.kilic@gmail.com)
+
+---
+
+### About Me
+
+Software engineer at Microsoft with a background in deep learning research. I did my PhD in Computer Science at Northwestern University, where I worked on computer vision, materials science AI, and generative models. Now I build software at scale and dive deep into foundation models, VLMs, and AI agents on the side.
+
+I write about research papers and AI on [Substack](https://talhakilic.substack.com) — deep dives into the papers behind modern AI systems.
+
+---
+
+### Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**Research**](https://github.com/mntalha/Research) | Deep dives into foundational AI papers — Transformers, LLaMA, VLMs, reasoning, RL alignment. Includes detailed Substack articles with original diagrams. |
+| [**stutAI**](https://github.com/mntalha/stutAI) | AI assistant that helps people who stutter communicate — clones your voice and speaks for you using open-source models. |
+| [**LLM_Atom_Gen**](https://github.com/mntalha/LLM_Atom_Gen) | Framework for generating nonexistent atoms using Large Language Models. |
+| [**SemiconCLIP**](https://github.com/mntalha/SemiconCLIP) | CLIP-based atom matching in semiconductor microscopy images. |
+| [**Atom-Segmentation**](https://github.com/mntalha/Atom-Segmentation) | Methods for detecting and counting atoms in STEM-simulated images of 2D materials. |
+| [**MaterialVision**](https://github.com/mntalha/MaterialVision) | Prompt-to-image matching for materials science. |
+| [**CrossPropertyTL**](https://github.com/mntalha/CrossPropertyTL) | Cross-property deep transfer learning. |
+| [**Classifier-GAN**](https://github.com/mntalha/Classifier-GAN) | GAN experiments to improve discriminator accuracy. |
+| [**EBSD_FFT**](https://github.com/mntalha/EBSD_FFT) | FFT-preprocessed neural networks for EBSD data. |
+| [**Efficient-Weight-Initializer**](https://github.com/mntalha/Efficient-Weight-Initializer) | Custom weight initialization strategies to capture data structure before training. |
+
+---
+
+### Tech Stack
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" width="120" height="60"/>
-   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="120" height="60"/>
-    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="120" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="120" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="120" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="120" height="60"/>
-   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="120" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="120" height="60"/>
 </p>
 
+---
 
-- 👋 Computer Science PhD at [Northwestern University](https://www.northwestern.edu/)
-- 👀 I’m interested in deep learning related projects by using **Pytorch**, **Keras** and **TensorFlow** libraries
-- 🌱 I’m currently learning neural network optimizations
-- 💭 Ask me about **AI, python , C , C++ and related algorithms**
-- 📫 How to reach me  : https://www.linkedin.com/in/mntalhakilic or mntalha.kilic@gmail.com
-- 💁‍♂️ My Blog  : [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://medium.com/@mntalha.kilic)
+### Currently
+
+- Building at **Microsoft**
+- Writing deep research paper breakdowns on [Substack](https://talhakilic.substack.com)
+- Exploring VLM finetuning, AI agents, and reasoning models
+
+---
 
 ![](https://komarev.com/ghpvc/?username=mntalha&color=33B8FF&style=plastic?labelColor=7D898B)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mntalha&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mntalha&layout=compact&theme=dark)
